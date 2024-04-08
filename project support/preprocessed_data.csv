@@ -1,0 +1,26 @@
+SaleID,CustomerID,ProductID,SaleDate,Quantity,Revenue,CustomerName,ProductName,Category,UnitPrice
+1,1,5,2023-01-15,2,$600 ,Olivia Wilson,Digital Camera,Electronics,300.0
+2,2,10,2023-02-20,1,$200 ,Ethan Johnson,Microwave,Appliances,200.0
+3,3,3,2023-03-10,1,$400 ,Sophia Martinez,Smartphone,Electronics,400.0
+4,4,17,2023-04-05,3,"$1,800 ",Liam Anderson,Washing Machine,Appliances,600.0
+5,5,8,2023-05-12,2,$300 ,Isabella Taylor,Wireless Speaker,Electronics,150.0
+6,6,12,2023-06-20,1,$50 ,Aiden Thomas,Blender,Appliances,50.0
+7,7,19,2023-07-10,1,$400 ,Mia Hernandez,Grill,Outdoors,400.0
+8,8,1,2023-08-05,2,"$1,000 ",Lucas Moore,Smart TV,Electronics,500.0
+9,9,25,2023-09-12,1,$300 ,Amelia Clark,Bicycle,Outdoors,300.0
+10,10,14,2023-10-20,2,$60 ,Oliver Rodriguez,Toaster,Appliances,30.0
+11,11,21,2023-11-05,1,$200 ,Harper Lewis,Tent,Outdoors,200.0
+12,12,15,2023-12-10,1,$150 ,Elijah Lee,Vacuum Cleaner,Appliances,150.0
+13,13,6,2024-01-15,3,"$1,050 ",Scarlett Walker,Tablet,Electronics,350.0
+14,14,23,2024-02-20,1,$80 ,Aria Hall,Sleeping Bag,Outdoors,80.0
+15,15,9,2024-03-10,2,"$1,200 ",Benjamin Young,Gaming Console,Electronics,600.0
+16,16,7,2024-04-05,1,$200 ,Grace Perez,Smart Watch,Electronics,200.0
+17,17,18,2024-05-12,1,$300 ,Henry Sanchez,Lawn Mower,Outdoors,300.0
+18,18,2,2024-06-20,2,"$1,600 ",Victoria Nguyen,Laptop,Electronics,800.0
+19,19,11,2024-07-10,1,"$1,000 ",Samuel Scott,Refrigerator,Appliances,1000.0
+20,20,20,2024-08-05,3,"$1,800 ",Zoey Hill,Patio Furniture,Outdoors,600.0
+21,21,4,2024-09-12,1,$100 ,Landon Green,Headphones,Electronics,100.0
+22,22,16,2024-10-20,2,"$1,600 ",Nora Baker,Air Conditioner,Appliances,800.0
+23,23,24,2024-11-05,1,$500 ,Leo Carter,Kayak,Outdoors,500.0
+24,24,13,2024-12-10,1,$80 ,Elena Ward,Coffee Maker,Appliances,80.0
+25,25,22,2025-01-15,2,$200 ,Christopher Torres,Backpack,Outdoors,100.0

@@ -1,0 +1,26 @@
+ProductID,ProductName,Category,Price
+1,Smart TV,Electronics,$500 
+2,Laptop,Electronics,$800 
+3,Smartphone,Electronics,$400 
+4,Headphones,Electronics,$100 
+5,Digital Camera,Electronics,$300 
+6,Tablet,Electronics,$350 
+7,Smart Watch,Electronics,$200 
+8,Wireless Speaker,Electronics,$150 
+9,Gaming Console,Electronics,$600 
+10,Microwave,Appliances,$200 
+11,Refrigerator,Appliances,"$1,000 "
+12,Blender,Appliances,$50 
+13,Coffee Maker,Appliances,$80 
+14,Toaster,Appliances,$30 
+15,Vacuum Cleaner,Appliances,$150 
+16,Air Conditioner,Appliances,$800 
+17,Washing Machine,Appliances,$600 
+18,Lawn Mower,Outdoors,$300 
+19,Grill,Outdoors,$400 
+20,Patio Furniture,Outdoors,$600 
+21,Tent,Outdoors,$200 
+22,Backpack,Outdoors,$100 
+23,Sleeping Bag,Outdoors,$80 
+24,Kayak,Outdoors,$500 
+25,Bicycle,Outdoors,$300 
